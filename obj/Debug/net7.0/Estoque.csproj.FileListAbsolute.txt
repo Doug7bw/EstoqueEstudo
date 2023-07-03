@@ -1,0 +1,15 @@
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\bin\Debug\net7.0\Estoque.exe
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\bin\Debug\net7.0\Estoque.deps.json
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\bin\Debug\net7.0\Estoque.runtimeconfig.json
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\bin\Debug\net7.0\Estoque.dll
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\bin\Debug\net7.0\Estoque.pdb
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\obj\Debug\net7.0\Estoque.csproj.AssemblyReference.cache
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\obj\Debug\net7.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\obj\Debug\net7.0\Estoque.AssemblyInfoInputs.cache
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\obj\Debug\net7.0\Estoque.AssemblyInfo.cs
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\obj\Debug\net7.0\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\obj\Debug\net7.0\Estoque.dll
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\obj\Debug\net7.0\refint\Estoque.dll
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\obj\Debug\net7.0\Estoque.pdb
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\obj\Debug\net7.0\Estoque.genruntimeconfig.cache
+C:\Users\brasi\OneDrive\Área de Trabalho\programacao_estudos\exerciciosC\Estoque\obj\Debug\net7.0\ref\Estoque.dll
